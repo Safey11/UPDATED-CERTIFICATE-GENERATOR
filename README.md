@@ -1,1 +1,3 @@
-# UPDATED-CERTIFICATE-GENERATOR
+# React + Vite
+
+https://smit-certificate-generator.netlify.app/
